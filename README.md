@@ -9,7 +9,6 @@
 Hi, i´m from Mexico and a Software Engineer, I like to find solutions through programming with the use of different languages, the part that I like the most is creation and design in general.
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Homarukin)](https://github.com/Homarukin/github-readme-stats)
 
 <div align="center">
 <h3 align="center">Technologies and Tools:</h3>
@@ -30,8 +29,9 @@ Hi, i´m from Mexico and a Software Engineer, I like to find solutions through p
 
 
 
-
-
+<p align="center">
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Homarukin)](https://github.com/Homarukin/github-readme-stats)
+</p>
 
 # <h3 align="center">CONNECT WITH ME:</h3>
 <p align="center">
