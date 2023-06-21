@@ -1,5 +1,5 @@
 
-<h1 align="center">🎴 Homarukin</h1>
+<h1 align="center">🎴 Horurasu</h1>
 
 ---
 
