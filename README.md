@@ -2,7 +2,8 @@
 **`Software Engineer (Developer/Artist/Creator)`**
 
 
-Hi, i´m from Mexico and a Software Engineer, I like to find solutions through programming with the use of different languages, the part that I like the most is creation and design in general.
+- Hi, i´m from Mexico and a Software Engineer Student, I like to find solutions through programming with the use of different languages, the part that I like the most is creation and design in general.
+- 
 
 
 <h3> Technologies and Tools: </h3>
@@ -47,6 +48,14 @@ Hi, i´m from Mexico and a Software Engineer, I like to find solutions through p
 ![Arduino](https://img.shields.io/badge/Arduino-05122A?style=flat&logo=Arduino)
 ![RaspBerryPi](https://img.shields.io/badge/RaspBerryPi-05122A?style=flat&logo=RaspBerryPi&logoColor=A22846)
 ![ESP32](https://img.shields.io/badge/ESP32-05122A?style=flat&logo=esphome)
+
+
+
+<a href="https://github.com/Horurasu"><img title="abhackerofficial" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Horurasu&layout=compact&langs_count=12&hide_progress=true&theme=transparent&hide_border=true&title_color=FFFFFF"></a>
+  
+![Horurasu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Horurasu&show_icons=false&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=C0C0C0&icon_color=FFFFFF&layout=compact&hide=contribs,issues,PRs)
+
+
 
 
 
