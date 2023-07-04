@@ -51,9 +51,9 @@
 
 
 
-<a href="https://github.com/Horurasu"><img title="abhackerofficial" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Horurasu&layout=compact&langs_count=12&hide_progress=true&theme=transparent&hide_border=true&title_color=FFFFFF"></a>
+<a href="https://github.com/Horurasu"><img title="abhackerofficial" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Horurasu&layout=compact&langs_count=12&hide_progress=true&theme=transparent&hide_border=true"></a>
   
-![Horurasu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Horurasu&show_icons=false&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=C0C0C0&icon_color=FFFFFF&layout=compact&hide=contribs,issues,PRs)
+![Horurasu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Horurasu&show_icons=false&theme=transparent&hide_border=true&layout=compact&hide=issues,prs&rank_icon=github)
 
 
 
