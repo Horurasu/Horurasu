@@ -4,20 +4,21 @@
   title="Banner"
   style="display: inline-block; margin: 0 auto; max-width: 396px">
 
-<p align="center" width="300">
-   <h3 align="center">¡Hello there 👋!</h3>
-</p>
-
-I'm all about infusing passion into my coding adventures! I thrive on the excitement of problem-solving and the thrill of crafting innovative solutions. Whether it's diving into the latest tech trends or collaborating on creative projects, I bring a friendly and enthusiastic approach to everything I do. Let's embark on this coding journey together and make some magic happen!
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-MartinAguilar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/martin-joaquin-aguilar-muñoz)
 [![Twitter](https://img.shields.io/badge/Twitter-@MartinJAguilarM-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/MartinJAguilarM)
 [![YouTube](https://img.shields.io/badge/YouTube-Horurasu-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/@Horurasu)
 
+<p align="center" width="300">
+   <h3 align="center">¡Hello there 👋!</h3>
+</p>
 
 
-<details align="center">
-<summary>⚡ <h2>Technologies</h2></summary><br>
+I'm all about infusing passion into my coding adventures! I thrive on the excitement of problem-solving and the thrill of crafting innovative solutions. Whether it's diving into the latest tech trends or collaborating on creative projects, I bring a friendly and enthusiastic approach to everything I do. Let's embark on this coding journey together and make some magic happen!
+
+
+
+<details>
+<summary>⚡ <h2>Technologies and Tools</h2></summary><br>
   
 💻
 ![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=python&logoColor=FFFB00)
@@ -29,6 +30,9 @@ I'm all about infusing passion into my coding adventures! I thrive on the excite
 ![Sql](https://img.shields.io/badge/Sql-05122A?style=flat&logo=serverfault)
 ![CSS3](https://img.shields.io/badge/CSS-05122A?style=flat&logo=CSS3&logoColor=008BFF)
 ![HTML5](https://img.shields.io/badge/HTML-05122A?style=flat&logo=CSS3&logoColor=FF8A0E)
+![Lua Roblox](https://img.shields.io/badge/LuaRoblox-05122A?style=flat&logo=Lua&logoColor=CD0000)
+![MarkDown](https://img.shields.io/badge/MarkDown-05122A?style=flat&logo=MarkDown&logoColor=FFFB00)
+
 
 🌐
 ![Angular](https://img.shields.io/badge/Angular-05122A?style=flat&logo=Angular&logoColor=CD0000)
@@ -41,6 +45,8 @@ I'm all about infusing passion into my coding adventures! I thrive on the excite
 ![Sansar](https://img.shields.io/badge/Sansar-05122A?style=flat&logo=sharp&logoColor=00aae4)
 ![Unity](https://img.shields.io/badge/Unity-05122A?style=flat&logo=Unity)
 ![RobloxStudio](https://img.shields.io/badge/RobloxStudio-05122A?style=flat&logo=RobloxStudio)
+![Cluster](https://img.shields.io/badge/Cluster-05122A?style=flat&logo=Cluster)
+![RecRoom](https://img.shields.io/badge/RecRoom-05122A?style=flat&logo=RecRoom)
 
 
 🛢 
