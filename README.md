@@ -1,4 +1,10 @@
 
+<img
+  src="/Images/banner.png"
+  alt="image"
+  title="Banner"
+  style="display: inline-block; margin: 0 auto; max-width: 396px">
+
 
 <details>
 <summary><h2>⚡Technologies</h2></summary><br>
