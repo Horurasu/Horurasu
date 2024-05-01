@@ -1,13 +1,23 @@
-
 <img
   src="/Images/bannerperfil.png"
   alt="image"
   title="Banner"
   style="display: inline-block; margin: 0 auto; max-width: 396px">
 
+<p align="center" width="300">
+   <h3 align="center">¡Hello there 👋!</h3>
+</p>
 
-<details>
-<summary><h2>⚡Technologies</h2></summary><br>
+I'm all about infusing passion into my coding adventures! I thrive on the excitement of problem-solving and the thrill of crafting innovative solutions. Whether it's diving into the latest tech trends or collaborating on creative projects, I bring a friendly and enthusiastic approach to everything I do. Let's embark on this coding journey together and make some magic happen!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-MartinAguilar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/martin-joaquin-aguilar-muñoz)
+[![Twitter](https://img.shields.io/badge/Twitter-@MartinJAguilarM-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/MartinJAguilarM)
+[![YouTube](https://img.shields.io/badge/YouTube-Horurasu-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/@Horurasu)
+
+
+
+<details align="center">
+<summary>⚡ <h2>Technologies</h2></summary><br>
   
 💻
 ![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=python&logoColor=FFFB00)
