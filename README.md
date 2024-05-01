@@ -1,6 +1,6 @@
 
 <img
-  src="/Images/banner.png"
+  src="/Images/bannerperfil.png"
   alt="image"
   title="Banner"
   style="display: inline-block; margin: 0 auto; max-width: 396px">
