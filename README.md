@@ -38,11 +38,9 @@
 ![ESP32](https://img.shields.io/badge/ESP32-05122A?style=flat&logo=esphome)
 
 </details>
-
-
-
   
-![Horurasu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Horurasu&show_icons=false&theme=vision-friendly-dark&hide_border=true&layout=compact&hide=issues,prs&rank_icon=github)
+| <a href="https://github.com/horurasu/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=horurasu&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&hide_border=true&hide=issues,prs&rank_icon=github" alt="Durgesh's github stats" /></a> | <a href="https://github.com/horurasu/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=horurasu&layout=compact&theme=vision-friendly-dark&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 
 
