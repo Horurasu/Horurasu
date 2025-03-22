@@ -26,7 +26,7 @@ I'm all about infusing passion into my coding adventures! I thrive on the excite
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,bash,bootstrap,c,cs,cpp,css,nodejs,postman,powershell,py,raspberrypi,ubuntu,angular,unity,vim,vscode,figma,git,github,githubactions,html,js,linux&perline=12"/>
+    <img src="https://skillicons.dev/icons?i=arduino,bash,bootstrap,c,cs,cpp,css,nodejs,postman,powershell,py,raspberrypi,ubuntu,angular,unity,vim,vscode,figma,git,github,githubactions,html,js,linux&perline=30"/>
   </a>
 </p>
   
