@@ -26,15 +26,10 @@ I'm all about infusing passion into my coding adventures! I thrive on the excite
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,bash,bootstrap,c,cs,cpp,css,nodejs,postman,powershell,py,raspberrypi,ubuntu,angular,unity,vim,vscode,figma,git,github,githubactions,html,js,linux&perline=30"/>
+    <img src="https://skillicons.dev/icons?i=arduino,bash,bootstrap,c,cs,cpp,css,nodejs,postman,powershell,py,raspberrypi,ubuntu,angular,unity,vim,vscode,figma,git,github,githubactions,html,js,linux&perline=12"/>
   </a>
 </p>
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=Horurasu&theme=darkhub&row=1&column=10&margin-w=5)](https://github.com/Horurasu/github-profile-trophy)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Horurasu&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=1000)](https://git.io/streak-stats)  
-
-
 
 
 
